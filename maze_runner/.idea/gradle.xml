@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Maze Runner (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/A delegate from within" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/A different formatter" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/And... what is the delegate used to do" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/Choosing the right delegate, with a bit of arithmetics mixed in" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/Hello, Delegate  Or are you Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Delegate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The first digit of a two-digit number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The number of tens" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Time format" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Beyond the word" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Max values of integer types" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Select variable type" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Size, min and max" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Sizes of Float and Double" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Sizes of types" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The classification of basic types/Upper possible value" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Delegate-And..._what_is_the_delegate_used_to_do" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Delegate/And... what is the delegate used to do" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="maze_runner" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Delegate/And... what is the delegate used to do">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/And... what is the delegate used to do/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/And... what is the delegate used to do/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/And... what is the delegate used to do/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

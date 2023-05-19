@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Delegate-A_different_formatter" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Delegate/A different formatter" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="maze_runner" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Delegate/A different formatter">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/A different formatter/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/A different formatter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Delegate/A different formatter/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
