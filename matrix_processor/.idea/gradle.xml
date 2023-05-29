@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Analogue of companion object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Companion" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Fix me" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Singleton vs Companion Object" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Companion object/Usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Reddit" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currency comparison" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Danger level" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Methods and parameters of Enum" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Counting" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Down to" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Is it here" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Step" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Number in a set" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Print all elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/The index of the first max" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Two numbers in a row" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Advantages of generics" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Extracting info" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Guess what's in the box" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/Understanding generics" />
+            <option value="$PROJECT_DIR$/Topics/Generic functions/What is a generic function" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Equal lists" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of characters" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Initializing a mutable list of integers" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Printing the last element" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/The first element of a list" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to MutableList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Initialization rules" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Kotlin lists" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Print result" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional list/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/How is it created" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/I'm the biggest one" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/Min, first, or null" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/Null or min" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null and collections/To null or not to null" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Application" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Is it a palindrome list" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/The lottery numbers" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ordering elements in collection/Which definition is correct" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Checking mailbox" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Facts about type bounds" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Get bigger" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Lovely bounds" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Multiple bounds" />
+            <option value="$PROJECT_DIR$/Topics/Type Bounds/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The largest element" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

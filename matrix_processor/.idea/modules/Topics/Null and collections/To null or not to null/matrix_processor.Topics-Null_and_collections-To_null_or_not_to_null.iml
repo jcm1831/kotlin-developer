@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Null_and_collections-To_null_or_not_to_null" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Null and collections/To null or not to null" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="matrix_processor" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Null and collections/To null or not to null">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Null and collections/To null or not to null/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Null and collections/To null or not to null/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Null and collections/To null or not to null/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
