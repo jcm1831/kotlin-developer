@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Aggregate_operations_on_collections-The_right_result_of_an_aggregate_function" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Aggregate operations on collections/The right result of an aggregate function" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="file_type_analyzer" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Aggregate operations on collections/The right result of an aggregate function">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Aggregate operations on collections/The right result of an aggregate function/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Aggregate operations on collections/The right result of an aggregate function/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Aggregate operations on collections/The right result of an aggregate function/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

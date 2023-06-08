@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Custom_sort_order_for_collection-Comprehension" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Custom sort order for collection/Comprehension" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="file_type_analyzer" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Custom sort order for collection/Comprehension">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom sort order for collection/Comprehension/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom sort order for collection/Comprehension/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Custom sort order for collection/Comprehension/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/File Type Analyzer (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The average of your scores" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The max value of a list" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/The right result of an aggregate function" />
+            <option value="$PROJECT_DIR$/Topics/Aggregate operations on collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Application" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/List of students" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Order your scores" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/The right result of ordering is" />
+            <option value="$PROJECT_DIR$/Topics/Custom sort order for collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/When will a thread start performing a task" />
+            <option value="$PROJECT_DIR$/Topics/Exceptions in threads/Catching an exception" />
+            <option value="$PROJECT_DIR$/Topics/Exceptions in threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Uses the Double in the calculations" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The minimum value of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Understanding ranges" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Correct jumping" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Placement of ships" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Unique characters" />
+            <option value="$PROJECT_DIR$/Topics/Jumps and returns/Whole truth about continue" />
+            <option value="$PROJECT_DIR$/Topics/Monitor and Thread synchronization/Countdown counter" />
+            <option value="$PROJECT_DIR$/Topics/Monitor and Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Monitor and Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Monitor and Thread synchronization/Two methods, two statements" />
+            <option value="$PROJECT_DIR$/Topics/Monitor and Thread synchronization/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Clothing problem" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Improve your vehicle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Nested or inner" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Pumpkin and candle" />
+            <option value="$PROJECT_DIR$/Topics/Nested and inner classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/List of students' grades" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/Secret code to save the city" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/The result of the code" />
+            <option value="$PROJECT_DIR$/Topics/Retrieve single element/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Empty" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Initialization" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String arrays/Yet another array" />
+            <option value="$PROJECT_DIR$/Topics/Thread as object/Counting threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread as object/Getting a current thread" />
+            <option value="$PROJECT_DIR$/Topics/Thread as object/Is the thread a daemon" />
+            <option value="$PROJECT_DIR$/Topics/Thread as object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread as object/Thread name" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Calculate the number of distinct characters" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Join" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/The order of lines" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/VeganPizza" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Dealing with currency" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Synchronization of code" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring an immutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Easy value search" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
