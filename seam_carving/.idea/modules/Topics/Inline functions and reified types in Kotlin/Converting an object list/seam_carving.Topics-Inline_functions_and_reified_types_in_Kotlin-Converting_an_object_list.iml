@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Inline_functions_and_reified_types_in_Kotlin-Converting_an_object_list" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Converting an object list" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="seam_carving" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Converting an object list">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Converting an object list/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Converting an object list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Converting an object list/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

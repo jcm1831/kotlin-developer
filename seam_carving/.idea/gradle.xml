@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Seam Carving/task" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Binary heap/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Binary heap/Node and subtree comparison" />
+            <option value="$PROJECT_DIR$/Topics/Binary heap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Number of vowels" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Step by step" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Theory" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Unique characters" />
+            <option value="$PROJECT_DIR$/Topics/CharSequence/Where is the palindrome" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Capitalize the words" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Harry and the Spell Power" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Select functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/The problem of maps" />
+            <option value="$PROJECT_DIR$/Topics/Collection transformations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/String processor" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/The order of lines" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/When will a thread start performing a task" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Concatenate 3 strings with separator" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Print Username" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Check the numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Down to" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Is it here" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Step" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Benefits of inline functions" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Converting an object list" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Search for a car by brand" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inline functions and reified types in Kotlin/When inline functions are useful" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/ Not  predicate" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Capturing variable" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Syntax" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Advantages of lambdas with receivers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Creating a Tag Builder" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Test if a number is divisible" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda with receiver/Working with Accounts" />
+            <option value="$PROJECT_DIR$/Topics/List/Are you there" />
+            <option value="$PROJECT_DIR$/Topics/List/Even numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/Indexes" />
+            <option value="$PROJECT_DIR$/Topics/List/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Topics/List/Sum of numbers" />
+            <option value="$PROJECT_DIR$/Topics/List/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Map/Comprehension" />
+            <option value="$PROJECT_DIR$/Topics/Map/FizzBuzz" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Avoiding an NPE" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Match operators" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Nullable Boolean" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Safe round" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/The  !!  operator" />
+            <option value="$PROJECT_DIR$/Topics/Null safety/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/A simple regex" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/Float number regex" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/Matching digits" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/OK Computer" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/The meaning of the {n} quantifier" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/The name of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Quantifiers/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Can you" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Creating regexes" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Escapism" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Help the teacher" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Matching pattern" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/The dot" />
+            <option value="$PROJECT_DIR$/Topics/Regexps/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/All scope functions" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Apply vs also" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Code for using a scope function" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Map of buttons" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  apply and also/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Chain of functions" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Filter and match lists" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Organize your code" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Organize your code again" />
+            <option value="$PROJECT_DIR$/Topics/Scope functions  let, run, and with/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Hacking the Matrix" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/List of students' grades" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Match functions and results" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Palindrome test" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/The Empire strikes back" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/The right result of the function" />
+            <option value="$PROJECT_DIR$/Topics/Sequences/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Asterisk" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Closed case" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Nonexistent file path" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Overwriting" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/Writing in a file" />
+            <option value="$PROJECT_DIR$/Topics/Writing files/writeText()" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Mochaccino" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

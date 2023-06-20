@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Inline_functions_and_reified_types_in_Kotlin-Benefits_of_inline_functions" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Benefits of inline functions" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="seam_carving" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Benefits of inline functions">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Benefits of inline functions/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Benefits of inline functions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Inline functions and reified types in Kotlin/Benefits of inline functions/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

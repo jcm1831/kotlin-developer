@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Collection_transformations-Harry_and_the_Spell_Power" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Collection transformations/Harry and the Spell Power" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="seam_carving" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Collection transformations/Harry and the Spell Power">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collection transformations/Harry and the Spell Power/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collection transformations/Harry and the Spell Power/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Collection transformations/Harry and the Spell Power/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
