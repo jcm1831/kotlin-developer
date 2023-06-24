@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="phone_book.Phone_Book__Kotlin_-task.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-Hacking_the_Matrix.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-Palindrome_test.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-The_right_result.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-The_right_result_of_the_code.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-Theory.main" target="11" />
+      <module name="phone_book.Topics-ArrayDeque-Which_method_is_correct.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Cutting_out_the_middle_of_a_string.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Determine_the_value__1_.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Move_the_first_N_characters.main" target="11" />
+      <module name="phone_book.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="phone_book.Topics-Recursion-But_what__is__recursion.main" target="11" />
+      <module name="phone_book.Topics-Recursion-Multiple_recursion_simulation.main" target="11" />
+      <module name="phone_book.Topics-Recursion-Programming_a_recursive_function__calculate_the_sum_of_all_the_digit.main" target="11" />
+      <module name="phone_book.Topics-Recursion-Programming_a_recursive_function__calculating_the_sum_of_numbers_from_1_to_n.main" target="11" />
+      <module name="phone_book.Topics-Recursion-Programming_a_recursive_function__determining_if_the_given_number_is_prime.main" target="11" />
+      <module name="phone_book.Topics-Recursion-Theory.main" target="11" />
+      <module name="phone_book.Topics-Stack-List_of_students'_grades.main" target="11" />
+      <module name="phone_book.Topics-Stack-Match_functions_and_results.main" target="11" />
+      <module name="phone_book.Topics-Stack-Palindrome_test.main" target="11" />
+      <module name="phone_book.Topics-Stack-The_right_result_of_the_code.main" target="11" />
+      <module name="phone_book.Topics-Stack-Theory.main" target="11" />
+      <module name="phone_book.Topics-Stack-Which_method_is_correct.main" target="11" />
+      <module name="phone_book.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

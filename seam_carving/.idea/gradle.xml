@@ -120,6 +120,10 @@
             <option value="$PROJECT_DIR$/Topics/Sequences/The Empire strikes back" />
             <option value="$PROJECT_DIR$/Topics/Sequences/The right result of the function" />
             <option value="$PROJECT_DIR$/Topics/Sequences/Theory" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Magic of the RUNNABLE state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/The meaning of the TERMINATED state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Theory" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Asterisk" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Closed case" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Nonexistent file path" />
