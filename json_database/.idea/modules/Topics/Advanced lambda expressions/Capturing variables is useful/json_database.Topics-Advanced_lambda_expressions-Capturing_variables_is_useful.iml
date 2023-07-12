@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Advanced_lambda_expressions-Capturing_variables_is_useful" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Advanced lambda expressions/Capturing variables is useful" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="json_database" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Advanced lambda expressions/Capturing variables is useful">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Advanced lambda expressions/Capturing variables is useful/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Advanced lambda expressions/Capturing variables is useful/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Advanced lambda expressions/Capturing variables is useful/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

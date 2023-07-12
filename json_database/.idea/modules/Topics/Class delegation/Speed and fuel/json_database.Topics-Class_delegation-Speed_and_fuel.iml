@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Class_delegation-Speed_and_fuel" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Class delegation/Speed and fuel" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="json_database" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Class delegation/Speed and fuel">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Class delegation/Speed and fuel/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Class delegation/Speed and fuel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Class delegation/Speed and fuel/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
